@@ -1,0 +1,10 @@
+a.out
+a.txt
+c.txt
+hello
+hello.c
+hello2.c
+ls.txt
+main.c
+name
+name.c
